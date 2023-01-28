@@ -1,0 +1,42 @@
+.lo li{
+	display: inline;
+	margin-right: 20px;
+}
+
+.dio p{
+	text-align: center;
+	margin-top: 200px;
+}
+.dio i{
+	text-align: center;
+}
+h1{
+	color: aqua;
+	text-align: center;
+	font-weight: bolder;
+}
+.fall{
+		display: block;
+		justify-content: space-between;
+		box-shadow: 10px 10px 10px;
+		color: aqua;
+}
+h1{
+	color: aqua;
+}
+.card-body h3{
+	color: aqua;
+}
+label {
+	color: gray;
+  }
+  button {
+	width: 100%;
+	margin-top: 20px;
+  }
+  .gry {
+	background-color:whitesmoke;
+  }
+
+
+
