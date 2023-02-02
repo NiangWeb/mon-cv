@@ -1,6 +1,16 @@
-.lo li{
+.menu li{
 	display: inline;
 	margin-right: 20px;
+	font-family: roboto;
+	font-size: large;
+}
+.menu li :hover {
+	color: aqua;
+	font-weight: bold;
+}
+.menu li :active {
+	color: blue;
+	text-decoration: underline;
 }
 
 .dio p{
@@ -10,10 +20,26 @@
 .dio i{
 	text-align: center;
 }
+.nia{
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	transition: 3s;
+}
+.nia:hover {
+	height: 320px;
+	width: 310px;
+}
 h1{
 	color: aqua;
 	text-align: center;
 	font-weight: bolder;
+	text-decoration: solid;
+}
+.cv {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: aqua;
 }
 .fall{
 		display: block;
